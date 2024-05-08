@@ -26,7 +26,7 @@ Ein Arduino wird zur Steuerung eines Tresors verwendet. Je nach Input am Keypad 
 
 #### 3. Verschaltung des Arduinos
 
-  <img src="./Project Preview/" alt="project-screenshot" width="400" height="400/">
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Verschaltung_Tinkercad.png?raw=true)
 
 
 #### 4. Arduino IDE mit Arduino verbinden
