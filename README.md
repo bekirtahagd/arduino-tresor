@@ -45,7 +45,8 @@ Ein Arduino wird zur Steuerung eines Tresors verwendet. Je nach Input am Keypad 
 ```bash
   Danach befestigt man den LCD in die Lücke und schraubt den Servo-Motor, inklusive Schieberegler an die Tresorplatte.
 ```
-![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Tresor_Verriegelung.png?raw=true)
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Tresor_Platte.png?raw=true)
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Verriegelung.png?raw=true)
 
 #### 3. Tresorplatte an Gehäuse montiert
 ```bash
@@ -60,10 +61,16 @@ README.mderschaltung
   Verschaltet man das ganze kommt man auf folgendes Ergebniss.
 ```
 ![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Verschaltung.png?raw=true)
-<video src='./ProjectPreview/Verschaltung_Tresor' alt='Preview Video' width=auto/></video>
+
+https://github.com/bekirtahagd/arduino-tresor/assets/70061931/63cf33d0-edce-4b5a-9fae-92e37f12d392
+
 
 #### 5. Endprodukt
 ```bash
   Wird das Programm auf den Arduino geladen, so ist unser Tresor fertig. Unser Endprodukt sieht wie folgt aus: 
 ```
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Endprodukt.png?raw=true)
+
+https://github.com/bekirtahagd/arduino-tresor/assets/70061931/9fd56226-7871-494f-a0fd-1f19792085f1
+
 
