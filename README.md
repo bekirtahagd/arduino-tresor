@@ -39,27 +39,28 @@ Ein Arduino wird zur Steuerung eines Tresors verwendet. Je nach Input am Keypad 
 ```bash
   Zuerst kauft man eine Holzplatte und gewisse Ausschnitte getätigt, sodass man Platz für den LCD Monitor und die Kabel für das Keypad hat.
 ```
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Tresor_Bau.png?raw=true)
 
 #### 2. LCD und Schieberegler
 ```bash
   Danach befestigt man den LCD in die Lücke und schraubt den Servo-Motor, inklusive Schieberegler an die Tresorplatte.
 ```
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Tresor_Verriegelung.png?raw=true)
 
 #### 3. Tresorplatte an Gehäuse montiert
 ```bash
   Nun muss man die Tresorplatte an ein Gehäuse montieren. Dafür kann man eine offene Weinkiste benutzen. Somit hat man die Form eines Tresors, aber gleichzeitig auch Löcher um den Verriegelungsprozess innerhalb des Tresors besser sehen zu können.
 ```
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Tresor_Tür.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-#### 4. Verschaltung
+#### 4. Vsor.mp4
+tresor_preview.png
+README.mderschaltung
 ```bash
   Verschaltet man das ganze kommt man auf folgendes Ergebniss.
 ```
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![alt text](https://github.com/bekirtahagd/arduino-tresor/blob/main/ProjectPreview/Verschaltung.png?raw=true)
+<video src='./ProjectPreview/Verschaltung_Tresor' alt='Preview Video' width=auto/></video>
 
 #### 5. Endprodukt
 ```bash
